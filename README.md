@@ -11,8 +11,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning AI in Robotics
+- 🌱 I’m currently learning about AI in Robotics
 - 👯 I’m looking to collaborate on real world embodied AI solutions
-- 📫 How to reach me: email - jaganmurugan.m@gmail.com
+- 📫 Reach me at jaganmurugan.m@gmail.com
 
 
