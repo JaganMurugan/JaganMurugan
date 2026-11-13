@@ -32,7 +32,7 @@ Python · PyTorch · LangChain · LangGraph · OpenAI APIs · Hugging Face · RA
 
 Continuously learning, building, and experimenting at the frontier of AI — from intelligent software agents to AI-powered robotic systems.
 
-**Learn by building. Experiment relentlessly. Create meaningful impact through AI.**
+**Learn by building. Experiment relentlessly. Create meaningful impact through AI..**
 - 📫 Reach me at jaganmurugan.m@gmail.com
 
 
